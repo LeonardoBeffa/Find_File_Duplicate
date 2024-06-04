@@ -90,7 +90,7 @@ def remove_parentheses_from_filenames(directory):
 if __name__ == "__main__":
     print('Inicio do programa.')
     # Diretório a ser verificado \\
-    diretorio = fr"H:\Documentos\Backup do PC\Imagens\iPhone - Galaxy\2022"
+    diretorio = fr"DIRETORIO DA PASTA PARA QUAL O CODIGO VAI SER EXECUTADO"
         
     duplicados = encontrar_duplicados(diretorio)
 
